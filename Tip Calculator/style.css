@@ -1,0 +1,77 @@
+body
+{
+  background-color: #24a19c;
+  font-family: calibri, serif;
+}
+
+#box
+{
+  background-color: #6ebfb5;
+  overflow: hidden;
+  text-align: center;
+  margin-top: 50px;
+}
+
+#xp
+{
+  display: block;
+  margin: 0 auto;
+}
+
+span
+{
+  display: inline;
+}
+
+label
+{
+  font-weight: lighter;
+}
+
+option
+{
+  font-weight: lighter;
+}
+
+input
+{
+  display: block;
+  margin: 0 auto;
+  font-weight: lighter;
+}
+
+h1
+{
+  text-align: center;
+  font-size: 50px;
+  margin-bottom: 40px;
+}
+
+form
+{
+  font-size: 30px;
+}
+
+#rupees
+{
+  display: inline;
+}
+
+#result
+{
+  font-size: 70px;
+  font-family: helvetica, sans-serif;
+  border: dashed 2px black;
+  padding: 5px;
+  margin: 30px;
+}
+
+sup
+{
+  font-size: 40px;
+}
+
+#boxy
+{
+  margin: 30px;
+}
